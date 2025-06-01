@@ -1,4 +1,4 @@
-# deep-learning-from-scratch
+# Deep-Learning-from-scratch
 Deep learning MLP experiments on MNIST using TensorFlow low-level API
 # MLPs from Scratch 🧠
 

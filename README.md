@@ -9,7 +9,8 @@ This repository contains my implementation of Multi-Layer Perceptrons (MLPs) fro
 - MLP with Sigmoid activation
 - MLP with ReLU activation
 - MLP with ReLU + Dropout
-- MLP with ReLU + Batch Normalization 
+- MLP with ReLU + Batch Normalization
+- Leaky ReLU + Batch Normalization
 
 ## 🧪 Dataset
 - MNIST Handwritten Digit Classification

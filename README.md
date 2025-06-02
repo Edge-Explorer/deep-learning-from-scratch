@@ -11,6 +11,7 @@ This repository contains my implementation of Multi-Layer Perceptrons (MLPs) fro
 - MLP with ReLU + Dropout
 - MLP with ReLU + Batch Normalization
 - Leaky ReLU + Batch Normalization
+- ReLU + Softmax uisng Keras
 
 ## 🧪 Dataset
 - MNIST Handwritten Digit Classification
